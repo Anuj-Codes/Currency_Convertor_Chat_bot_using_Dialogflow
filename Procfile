@@ -1,1 +1,1 @@
-web: gunicorn anuj-currencyconvertor-chatbot.app
+web: gunicorn app:app
